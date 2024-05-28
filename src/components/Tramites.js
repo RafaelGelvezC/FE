@@ -28,7 +28,3 @@ function Tramites() {
 }
 
 export default Tramites;
-
-
-
-

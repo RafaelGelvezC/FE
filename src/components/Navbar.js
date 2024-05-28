@@ -55,6 +55,3 @@ export default Navbar;
 //verificar bien en tramites porque no se ven todas la opciones
 //hacer que el menu se despliegue desde navbar y que no se vea en la pagina
 
-
-
-
